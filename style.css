@@ -1,0 +1,24 @@
+/*CSS RULES */
+body{
+    background-color: lavender;
+}
+h1{
+    color: orchid;
+    font-weight: bold;
+}
+h2{
+    color: mediumvioletred;
+}
+h3{
+    color: indigo;
+    font-weight: ;
+}
+p{
+    color: mediumpurple;
+}
+li{
+    color: magenta;
+}
+footer{
+    color: slateblue;
+}
